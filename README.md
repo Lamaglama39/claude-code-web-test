@@ -4,7 +4,7 @@
 
 ## 機能
 
-- 10種類のエビのデータベース
+- 20種類のエビのデータベース
 - ランダムなエビ情報を取得するRESTful API
 - JSON形式でのレスポンス
 
@@ -116,6 +116,16 @@ curl http://localhost:3000/api/shrimp/random
 8. クルマエビ (Kuruma Prawn)
 9. バンブルビーシュリンプ (Bumblebee Shrimp)
 10. ボタンエビ (Spot Prawn)
+11. ウシエビ (Tiger Shrimp)
+12. バナメイエビ (Whiteleg Shrimp)
+13. オレンジサクラシュリンプ (Orange Sakura Shrimp)
+14. イエローシュリンプ (Yellow Shrimp)
+15. グリーンジェイドシュリンプ (Green Jade Shrimp)
+16. ブラックローズシュリンプ (Black Rose Shrimp)
+17. スノーボールシュリンプ (Snowball Shrimp)
+18. ブルーボルトシュリンプ (Blue Bolt Shrimp)
+19. タンジェリンタイガーシュリンプ (Tangerine Tiger Shrimp)
+20. キャメルシュリンプ (Camel Shrimp)
 
 ## 開発
 
