@@ -4,7 +4,7 @@
 
 ## 機能
 
-- 20種類のエビのデータベース
+- 30種類のエビのデータベース
 - ランダムなエビ情報を取得するRESTful API
 - JSON形式でのレスポンス
 
@@ -126,6 +126,16 @@ curl http://localhost:3000/api/shrimp/random
 18. ブルーボルトシュリンプ (Blue Bolt Shrimp)
 19. タンジェリンタイガーシュリンプ (Tangerine Tiger Shrimp)
 20. キャメルシュリンプ (Camel Shrimp)
+21. ハーレクインシュリンプ (Harlequin Shrimp)
+22. ペパーミントシュリンプ (Peppermint Shrimp)
+23. バンブーシュリンプ (Bamboo Shrimp)
+24. ヴァンパイアシュリンプ (Vampire Shrimp)
+25. スカンククリーナーシュリンプ (Skunk Cleaner Shrimp)
+26. ファイアシュリンプ (Fire Shrimp)
+27. グラスシュリンプ (Glass Shrimp)
+28. レッドリリシュリンプ (Red Rili Shrimp)
+29. カーボンリリシュリンプ (Carbon Rili Shrimp)
+30. ブルードリームシュリンプ (Blue Dream Shrimp)
 
 ## 開発
 
