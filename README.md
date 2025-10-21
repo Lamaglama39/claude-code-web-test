@@ -4,7 +4,7 @@
 
 ## 機能
 
-- 30種類のエビのデータベース
+- 40種類のエビのデータベース
 - ランダムなエビ情報を取得するRESTful API
 - JSON形式でのレスポンス
 
@@ -136,6 +136,16 @@ curl http://localhost:3000/api/shrimp/random
 28. レッドリリシュリンプ (Red Rili Shrimp)
 29. カーボンリリシュリンプ (Carbon Rili Shrimp)
 30. ブルードリームシュリンプ (Blue Dream Shrimp)
+31. サクラエビ (Sakura Ebi)
+32. コーラルバンデッドシュリンプ (Coral Banded Shrimp)
+33. ホッコクアカエビ (Northern Prawn)
+34. ワイルドチェリーシュリンプ (Red Cherry Shrimp Wild Type)
+35. オニテナガエビ (Giant River Prawn)
+36. カーディナルシュリンプ (Cardinal Shrimp)
+37. ニンジャシュリンプ (Ninja Shrimp)
+38. ジャイアントタイガーエビ (Giant Tiger Prawn)
+39. ペインテッドファイアレッドシュリンプ (Painted Fire Red Shrimp)
+40. クリスタルブラックシュリンプ (Crystal Black Shrimp)
 
 ## 開発
 
